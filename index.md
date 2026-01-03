@@ -1,78 +1,52 @@
-# liviqe-privacy  
+# liviqe-privacy
 
-## Privacy Policy for Liviqe  
+## Privacy Policy for LiviQe
 
-**Last updated:** December 13, 2025  
+**Last updated:** January 3, 2026
 
-Liviqe (“we”, “us”, or “our”) respects your privacy.  
-This Privacy Policy explains how information is handled when you use the **Liviqe iOS application** (“the App”).  
+LiviQe (“we”, “us”, or “our”) respects your privacy. This Privacy Policy explains how information is handled when you use the **LiviQe iOS application** (“the App”).
 
----  
+---
 
-## Data Collection  
+## Data Collection
 
-We do **not** collect, store, process, transmit, or share any personal or non-personal data from users of the App.  
+We do **not** collect, store, process, transmit, or share any personal or non‑personal data from users of the App.
 
-- No analytics  
-- No tracking  
-- No cookies  
-- No user accounts  
-- No third-party SDKs  
-- No advertising networks  
+- No analytics
+- No tracking
+- No cookies
+- No user accounts
+- No third‑party SDKs
+- No advertising networks
 
-The App operates **entirely offline** and does not communicate with external servers.  
+The App operates **entirely offline** and does not communicate with external servers.
 
----  
+---
 
-## Device Access  
+## Device Access
 
-Liviqe does **not** access:  
-- Contacts  
-- Photos  
-- Location  
-- Camera  
-- Microphone  
-- Files outside the App’s sandbox  
+LiviQe does **not** access:
 
-All data remains strictly on your device.  
+- Contacts
+- Photos
+- Location
+- Camera
+- Microphone
+- Files or documents
+- Device identifiers
 
----  
+## Third‑Party Services
 
-## Data Storage  
+The App does not use any third‑party services that may collect information.
 
-Any data created while using the App exists **only locally on your device**.  
+## Children’s Privacy
 
-We do not have access to this data and cannot retrieve, view, or transfer it.  
+The App is not directed to anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13.
 
----  
+## Changes to This Privacy Policy
 
-## Third-Party Services  
+We may update this Privacy Policy from time to time. Any changes will be posted on this page.
 
-The App does **not** integrate with any third-party services, analytics platforms, or external SDKs.  
+---
 
----  
-
-## Children’s Privacy  
-
-Since no data is collected, Liviqe does not knowingly collect personal information from children under the age of 13.  
-
----  
-
-## Changes to This Policy  
-
-We may update this Privacy Policy from time to time.  
-Any changes will be posted on this page.  
-
----  
-
-## Contact  
-
-If you have any questions about this Privacy Policy, you may contact us at:  
-
-📧 **liviqe.ios@gmail.com**  
-
----  
-
-## Jurisdiction  
-
-This Privacy Policy is governed by applicable laws.
+© LiviQe 2026
